@@ -1,0 +1,22 @@
+{
+  "name": "pie-htc",
+  "version": "1.0.0",
+  "homepage": "http://css3pie.com/",
+  "authors": [
+    "Cedric LOMBARDOT <cedric.lombardot@gmail.com>"
+  ],
+  "description": "Built of the  behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties",
+  "keywords": [
+    "ie",
+    "pie",
+    "htc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
